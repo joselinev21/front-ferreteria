@@ -1,0 +1,42 @@
+@hookform/resolvers - Proporciona resolvers para integrar `React Hook Form` con esquemas de
+validación de librerías como `Zod`, `Yup`, y otros. Facilita la validación de formularios con estas librerías de manera eficiente.
+
+@reduxjs/toolkit - Conjunto de herramientas para simplificar el uso de Redux en aplicaciones
+React. Proporciona utilidades como `createSlice`, `createAsyncThunk`, y una configuración más sencilla del store.
+
+axios - ClienteHTTPbasadoenpromesasparahacersolicitudesaservidores.Facilita
+la comunicación con APIs REST y maneja la respuesta de manera eficiente.
+
+dotenv - Carga variables de entorno desde un archivo `.env` a `process.env`. Es útil
+para gestionar configuraciones y secretos en diferentes entornos de desarrollo.
+
+react - Biblioteca principal para construir interfaces de usuario en React. Maneja la
+creación y actualización de componentes de manera eficiente.
+
+react-dom: - ProporcionamétodosparamanipularelDOMdeaplicacionesReact.Esencial
+para renderizar componentes en el navegador.
+
+react-hook-form: - Biblioteca para manejar formularios en React con un enfoque en rendimiento
+y simplicidad. Facilita la gestión de estados y validaciones de formularios.
+
+react-hot-toast: - Proporciona notificaciones (toasts) en tiempo real con un estilo atractivo y
+fácil de usar. Ideal para mostrar mensajes de éxito, error, u otros avisos al usuario.
+
+react-icons: - Ofrece una colección de íconos de diferentes bibliotecas en un solo paquete.
+Facilita la inclusión de íconos en la interfaz de usuario.
+
+react-redux: - Conecta `React` con `Redux`, proporcionando los hooks y componentes
+necesarios para integrar el estado global de Redux en los componentes de React.
+
+react-router-dom: - Biblioteca para manejar la navegación y el enrutamiento en aplicaciones
+React. Facilita la configuración de rutas y la gestión de navegación entre
+diferentes vistas. 
+
+zod: - Biblioteca para la validación de esquemas en JavaScript/TypeScript. Permite definir y validar objetos y tipos de datos con una sintaxis clara y fácil de usar.
+Toda documentación la pueden encontrar en internet, pero les iré explicando conforme avancemos el uso y sintaxis de cada una.
+
+react-cookie - Biblioteca que nos permite manipular las cookies que llegan desde nuestro servidor con mayor facilidad
+
+clsx - Biblioteca que permite realizar condiciones al momento de asignar clases de estilos css
+
+quagga - Vamos a usar esta biblioteca para leer el código de barra de los productos
